@@ -48,9 +48,7 @@
         android:id="@+id/paragraph_layout"
         android:visibility="visible"
         tools:visibility="visible"
-        android:orientation="vertical"
-
-        >
+        android:orientation="vertical">
 
     </RelativeLayout>
 
