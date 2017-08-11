@@ -20,7 +20,10 @@
         app:isAnimated="true"
         app:heading="This is a demo accordion"
         app:isExpanded="true"
-        app:isPartitioned="true">
+        app:isPartitioned="true"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:background="@drawable/background_blue">
 
         <TextView
             android:id="@+id/textView"
@@ -53,7 +56,9 @@
         app:isAnimated="true"
         app:heading="This is a demo accordion"
         app:isExpanded="true"
-        app:isPartitioned="true">
+        app:isPartitioned="true"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp">
 
         <TextView
             android:id="@+id/textView2"
